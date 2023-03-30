@@ -83,7 +83,7 @@ main h2 {
   font-weight: 400;
 }
 
-.download-cv-btn {
+.btn {
   padding: 15px 30px;
   margin-top: 20px;
   background-color: coral;
@@ -92,6 +92,19 @@ main h2 {
   border: none;
   border-radius: 30px;
   font-weight: 700;
+}
+
+.input {
+  padding: 15px 30px;
+  margin-top: 20px;
+  background-color: coral;
+  color: white;
+  outline: none;
+  border: none;
+  border-radius: 30px;
+  width: 200px;
+  height: 40px;
+  font-weight: 400;
 }
 
 main .social-links {
