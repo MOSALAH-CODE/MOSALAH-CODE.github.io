@@ -4,12 +4,12 @@ Welcome to my portfolio website! This is where I showcase my projects, skills, a
 
 
 <div align="center">
-  <img src="images/picture1.png" alt="" width="400" />
-  <img src="images/picture2.png" alt="" width="400" />
+  <img src="images/picture1.png" alt="" width="400" height="600" />
+  <img src="images/picture2.png" alt="" width="400" height="600" />
 </div>
 <div align="center">
-  <img src="images/picture3.png" alt="" width="400" />
-  <img src="images/picture4.png" alt="" width="400" />
+  <img src="images/picture3.png" alt="" width="400" height="600" />
+  <img src="images/picture4.png" alt="" width="400" height="600" />
 </div>
 ## Live Demo
 
