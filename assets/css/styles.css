@@ -726,8 +726,6 @@ img {
 .portfolio__img {
   width: 265px;
   border-radius: 0.5rem;
-  border: 0.5px solid #eaeaea;
-  padding: 20px 0;
   justify-self: center;
 }
 
