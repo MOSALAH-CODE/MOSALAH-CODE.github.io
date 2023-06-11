@@ -4,7 +4,7 @@ Welcome to my portfolio website! This is where I showcase my projects, skills, a
 
 
 <div align="center">
-  <img src="preview.png" alt="" width="400" height="525" />
+  <img src="preview.png"/>
 </div>
 
 ## Live Demo
