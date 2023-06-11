@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to my portfolio website! This is where I showcase my projects, skills, and experiences as a full-stack developer.
+Welcome to my portfolio website! This is where I showcase my projects, skills, and experiences as a frontend developer.
 
 ## Live Demo
 
