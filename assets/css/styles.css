@@ -498,6 +498,18 @@ img {
   width: 80%;
 }
 
+.skills__react {
+  width: 70%;
+}
+
+.skills__nodejs {
+  width: 70%;
+}
+
+.skills__sql {
+  width: 80%;
+}
+
 .skills__unity {
   width: 70%;
 }
